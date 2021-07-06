@@ -6,3 +6,5 @@ Designed and built an embedded spatial measurement system using a time-of-flight
 
 The final 3D model after collecting 10 planes of measurements.
 https://drive.google.com/file/d/1ZCbt4E3yTIUSqZMN9cD7OMf5mZZiIz5s/view?usp=sharing
+
+https://drive.google.com/file/d/1OYeJrT4ILWTp_zJen6tvV6OOQkcs79_8/view?usp=sharing
